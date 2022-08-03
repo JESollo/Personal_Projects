@@ -1,4 +1,4 @@
-#The Horus Heresy
+# The Horus Heresy
 
 The Horus Heresy is an even within the WH40k universe as well as a spin-off series of the original WH40k brand. 
 

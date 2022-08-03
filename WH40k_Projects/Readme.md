@@ -1,4 +1,4 @@
-#Warhammer 40,000_Projects
+# Warhammer 40,000_Projects
 As a fan of Games Workshops Warhammer 40,000 (WH40k) franchise, I have consumed an abundance of lore from the series of books within the Black Library publisher. 
 
 As a culmination of my interest in web-development and the grim-dark fantasy of WH40k, I will be creating projects centered on the fictional lore of WH40k. 
